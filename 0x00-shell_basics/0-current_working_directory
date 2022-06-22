@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "This file will print current working directory"
